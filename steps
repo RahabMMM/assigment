@@ -1,0 +1,121 @@
+Step 1: Check Windows 11 Compatibility Run a windows 11 compatibility check via PC Health Check to test if your computer is compatible with a Windows 11 install.
+
+Here, you need to ensure your PC supports TPM 2.0. As the Trusted Platform Module provides your operating system with a secure and dependable place to execute cryptographic functions, it’s an essential part of the process.
+
+Step 2: Check Windows 11 System Requirements You must type in “Windows update” in the search bar on your computer and open the Windows Update menu.
+
+An important note here — even if you have checked for compatibility issues via the PC health check feature, you may still see the following message in the menu that your computer does not meet windows 11 minimum requirements:
+
+“This PC doesn’t currently meet all the system requirements for Windows 11.”
+
+Don't worry. Even if Windows sometimes has a hard time synchronizing PC health checks with Windows Update results, you can avoid falling victim to a bricked system or loss of data.
+
+Let’s explore how to do that properly in the next step.
+
+Step 3: Backup your data We’ve mentioned bricked systems in the last section, which aren’t a pleasure to deal with.
+
+A bricked system is when an upgrade fails so dramatically that it renders your computer useless (or nearly so).
+
+Even if the computer is salvageable, it's possible to lose all your applications after an upgrade. You’d have to install them one by one all over again.
+
+However annoying that may be, it's better than losing your data altogether. And such scenarios have happened in the past with Windows systems. To avoid any potential data loss, it’s best to backup your data before any major updates.
+
+Here’s how to do it with Acronis Cyber Protect Home Office:
+
+Launch Acronis Cyber Protect Home Office Pick a backup option; you can go for Entire PC, Disks and partitions, Files and Folders, and Mobile device backups. Here, you’d want to pick “Entire PC” to copy the entirety of your computer and put the copy safely in storage. This way, you’ll be able to restore your whole system in case the upgrade fails or even migrate the backup to a different device or a virtual machine.
+
+After you pick “Entire PC”, choose a backup option to copy your system to the Acronis cloud, an external hard drive, or a separate partition on your system drive. (the latter is only possible if you have enough space on the said partition) The software will synchronize your current backup to save time if you have an existing backup in the chosen storage location. If you don’t, the solution will create a new backup and transfer it to the cloud. To create a hard drive backup, you can connect the hard drive to your system and select “Add a backup”. You’ll then be prompted to choose what data to backup and set up exceptions.
+
+Here, you can also choose the “Acronis Survival Kit” feature, which enables a bootable partition to recover your backups even if your operating system fails. If you've done so, you won’t need to reinstall Windows from scratch — you can simply restore the bootable partition and proceed as if the OS never failed.
+
+You can also apply encryption to the hard drive backup.
+
+To do that, go to the “Advanced” tab in the Disk backup options menu and type a password in the “Backup protection” fields below. Then, choose an encryption method (AES-256, for example), and you’re done — nobody can access that backup unless they have your password.
+
+Step 4: Start the Windows 11 Installation Now that you have a backup of all vital data, you can go for the Windows 11 upgrade. If the Windows Update window gives you the green light, you can immediately start the installation.
+
+If the incompatibility message in the Windows update menu persists, you can go for a workaround.
+
+As long as you’re sure you have enabled TPM 2.0 on your system, you can search for the Windows 11 Installation Assistant and download it. Once it’s downloaded, you can initiate the upgrade through it.
+
+The download process for Windows 11 system files can take a bit longer to complete, but there’s a simple trick you can use to speed it up.
+
+To do that, type “delivery optimization” in the Start menu, pull up the Settings page, and choose the option “Allow downloads from other PCs nearby”. Those PC don’t need to be on your HomeGroup network, but just close enough to be in range for the download assistance.
+
+Once download and installation are completed, you can log into your Windows 11 system.
+
+Step 5: Try and test Windows 11 To test Windows 11 correctly, first, you must ensure you have all the latest drivers for the system. Depending on the hardware and vital software on your PC, you’d need to visit the official driver download pages of the developers and check for updates.
+
+Once all updates are done, you can go around and test Windows 11 features — the centered main menu, different display options, try shortcut display combos, go for the Auto HDR and see how your favorite games perform on the new setup, etc.
+
+Keep in mind, if you try to log into the integrated Microsoft Teams app on Windows 11, it may prompt you with the “Your password is wrong” message. To fix that, you must get the Microsoft Teams (for work or school) to log in successfully.
+
+Step 6: Revert to previous windows if not satisfied If you’re not satisfied with Windows 11, or you simply want to stick with Windows 10 for now, you can revert the upgrade quickly with Acronis.
+
+To do that:
+
+Launch Acronis Cyber Protect Home Office Locate your backup on the screen Select the “Recovery” tab Choose “Entire PC recovery” Explore the “Recovery” pane and choose which backup version you wish to recover Keep in mind, “Entire PC recovery” is an irreversible process.
+
+If you have any files saved while operating in Windows 11, those files will be lost when you restore your Windows 10 copy via recovery. However, you can back up files saved in Windows 11 and migrate them after recovery.
+
+Once the restore is complete, you can return to operating on a Windows 10 platform. Advantages and disadvantages of Windows 11 The Windows 11 upgrade offers a number of benefits, but also has its drawbacks. After upgrading to Windows 11, users can take advantage of the rollback function within 10 days to revert to Windows 10 while keeping all data and files moved to Windows 11. Moving back after this period would require backing up all your data and performing a clean install.
+
+Some exciting reasons to switch to Windows 11 include enhanced touchscreen interactions; multiple desktops on a single monitor; improved multi-monitor support; and the introduction of the Microsoft Store (replacing the Windows Store). It also comes with UI enhancements, such as a redesigned Settings app, a new Windows setup screen, and new icons.
+
+Despite these advantages, many are hesitant to make the switch so quickly. One reason to wait on making the upgrade is to ensure that all bugs are fixed before installing Windows 11 and to ensure all of your important programs work properly in Windows 11.
+
+While disk space requirements for Windows 11 and Windows 10 are more or less the same, extra space will be required during the upgrade process. But around 10 days after you’ve completed the upgrade, Windows cleans up the extra space.
+
+If you are still using Windows 7 and wish to upgrade to Windows 11, make sure first that your device meets the new hardware requirements. The next step is to do a clean install or reimage in order to go directly to Windows 11.
+
+Windows 11 clean installation vs. upgrading When upgrading to Windows 11 on compatible hardware, doing a clean installation is recommended, since installation problems are less likely. This also helps to address any existing issues. This method of installation first erases the hard drive, then applies a new copy of the OS without keeping existing configurations and files.
+
+Alternatively, you can choose to do the free upgrade from Windows 10 to Windows 11. Before doing so, you should check that your hardware meets the requirements for installation, because if it doesn’t, installing Windows 11 might not be possible.
+
+Requirements you need to check before performing a Windows 11 upgrade? Prior to upgrading to Windows 11, there are a number of recommended steps.
+
+Windows 11 compatibility check In order to upgrade to Windows 11, your computer must meet Windows 11 minimum requirements and should be running the most up-to-date Windows 10 version. If this is not the case, it may be best to consider moving to a Windows-11-compatible device.
+
+Microsoft’s official minimum Windows 11 system requirements include:
+
+● CPU: 1 GHz with two or more cores on a 64-bit processor
+
+● Memory: 4 GB
+
+● Display: Measures 9 inches diagonally and high definition (720 p)
+
+● Storage: 64 GB
+
+● Graphics Card: DirectX 12 with WDDM 2.0 driver compatibility
+
+● Security: TPM 2.0, UEFI, Secure Boot
+
+● RAM: 4 GB
+
+If your device does not meet these Windows 11 minimum system requirements, installation of Windows 11 could result in compatibility issues and malfunctioning, and your manufacturer’s warranty will not cover any damage to incompatible devices. Moreover, Microsoft does not provide Windows 11 support for devices that do not meet these minimum requirements. This puts you at risk, since you may not be able to get important security updates, for example. Installation in such cases is therefore not recommended.
+
+Windows 10 users can check whether their devices are compatible and meet the minimum requirements using the PC Health Check App. Despite the name, it is important to note that the app only indicates whether your device is compatible with Windows 11; it doesn’t report the overall health of your computer.
+
+To perform the health check, the following steps must be taken:
+
+Download and open the app.
+
+Accept the Microsoft license agreement terms and click on “Install.”
+
+Once the application has been installed, select the “Open Windows PC Health Check” checkbox, then click “Finish.”
+
+When the tool opens, you will see your computer’s configuration on the left and an “Introducing Windows 11” banner on top. Click on the blue “Check Now” button tool to verify your PC’s compatibility with Windows 11.
+
+If compatible, a “This PC meets Windows 11 requirements” pop-up will appear.
+
+Clicking on “See all results” allows you to check each of the system requirements
+
+If your computer fails the compatibility tests, do not attempt upgrading to Windows 11. Cases where your hardware specifications meet the system requirements, but the “This PC can’t run Windows 11” pop-up is still appearing, will require enabling TPM (discussed below).
+
+Be sure to visit Dell, ASUS, Lenovo, or your computer manufacturer’s website to see if your device is compatible with Windows 11.
+
+Enable TPM 2.0 in the BIOS For enhanced Windows 11 security, the Trusted Platform Module (TPM) version 2.0 chip is required. Without this feature, you will be unable to perform a clean install or upgrade to Windows 11 on your device. However, few machines — particularly older ones — do not support TPM 2.0. Instructions for enabling TPM 2.0 are available on the Microsoft website.
+
+Enable Secure Boot in the BIOS In order to install Windows 11, your PC must also support UEFI Secure Boot. This security feature verifies whether your device’s Windows copy is genuine. Secure Boot blocks any malicious software from loading when your device boots. Visit the Microsoft website for detailed instructions on how to enable Secure Boot.
+
+How to create a Windows 11 full-image backup? A full-image backup is recommended so that you can easily undo all changes if anything goes wrong, without having to reinstall all your apps. You can do this using the Windows 10 built-in system image backup, the Windows 11 Backup and Restore or File History, or using third-party backup software like Acronis Cyber Protect Home Office. What’s the difference? With Acronis Cyber Protect Home Office, you can get a full-image backup but it also lets you back up your iPhone and Android devices and supports iOS to or from Android migration, You can also create direct cloud-to-cloud backups of your Microsoft 365 account, including the emails and attachments from your Outlook.com mailbox and all of the files in your OneDrive.
